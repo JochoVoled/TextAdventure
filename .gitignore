@@ -250,3 +250,8 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/TextAdventure/TextAdventure/Data/World.xml
+/TextAdventure/TextAdventure/Data/GameSave.xml
+/TextAdventure/TextAdventure/Config
+/TextAdventure/TextAdventure/Controller/OutputWriter.cs
+/TextAdventure/TextAdventure/Model/EDirection.cs
